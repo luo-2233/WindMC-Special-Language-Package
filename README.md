@@ -2,7 +2,7 @@
 
 ## 说明
 
-此仓库用于为风起社提供专用的汉化资源。其汉化资源将只包括未被[Minecraft-Mod-Language-Package](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package)收录的部分。
+此仓库用于为风起社提供专用的汉化资源。其汉化资源将只包括未被[Minecraft-Mod-Language-Package](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package)汉化的部分。
 
 ## 许可
 
